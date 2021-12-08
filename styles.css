@@ -176,8 +176,8 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 150px;
-    margin-left: 80px;
+    gap: 200px;
+    margin-left: 140px;
 }
 
 .content-wrapper-2 {
@@ -194,6 +194,7 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 48px;
     font-weight: 500;
+    margin-left: 80px;
 }
 
 .content-wrapper-2 button {
